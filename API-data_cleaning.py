@@ -74,5 +74,6 @@ print(outcome_df.head(5))
 
 """ Merging both datasets to retrieve the rows that contain both intake and output information """
 
-merged_df = intake_df.merge(outcome_df)
-print(merged_df)
+merged_df = pd.merge(intake_df, outcome_df, on='animal_id')
+
+print(merged_df.info())
