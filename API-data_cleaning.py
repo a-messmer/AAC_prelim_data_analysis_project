@@ -74,6 +74,19 @@ print(outcome_df.head(5))
 
 """ Merging both datasets to retrieve the rows that contain both intake and output information """
 
-merged_df = pd.merge(intake_df, outcome_df, on='animal_id')
+merged_df = pd.merge(intake_df, outcome_df, on='animal_id', how='inner')
 
-print(merged_df.info())
+print(merged_df.head(2))
+
+# removing the A from animal id to allow sorting of animal id later on
+merged_df['animal_id'] = merged_df['animal_id'].str[1:]
+print(merged_df)
+
+# sorting rows based on animal_id - this way we can check for any duplicates
+merged_df = merged_df.sort_values('animal_id')
+print(merged_df)
+
+# removing duplicates based on the animal_id
+merged_df = merged_df.drop_duplicates(subset='animal_id')  # .reset_index() - can reset the index 
+print(merged_df)
+
