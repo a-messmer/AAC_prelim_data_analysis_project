@@ -32,8 +32,8 @@ To end the data cleaning we renamed our columns and reindexed them.
 Finally we created a new csv file for the clean data which was ready to use for analysis. 
 
 # Columns in Dataset
--- Animal ID - this is the ID which is used to identify the animals
--- Animal - this is the type of the animal
+* Animal ID - this is the ID which is used to identify the animals
+* Animal - this is the type of the animal
 -- Intake Date - the date at which the animal is taken in by the shelter
 -- Outcome Date - the date at which the animal leaves the shelter
 -- Time in shelter - The length of time animal has spent in the shelter
