@@ -52,6 +52,13 @@ Finally we created a new csv file for the clean data which was ready to use for 
 * Total touchpoints - The total amount of times the same animal has been returned to the shelter - this was used for dataframe merging
 * Touchpoint count - The number of the return to the shelter - 1 = first time at shelter, 2 = second time in shelter etc. 
 
+# Required Imports
+The source code was run in Python 3.11.3
+
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 
 
