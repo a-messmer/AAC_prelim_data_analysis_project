@@ -9,6 +9,7 @@ With animal shelters in the US collectively taking in millions of companion anim
 * `Pip install pandas`
 * `Pip install numpy`
 * `pip install matplotlib `
+* IDE - VScode or Jupyter Notebook
 
 # *Required Imports*
 * `import requests` - to get data from API
