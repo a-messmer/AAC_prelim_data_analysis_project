@@ -1,6 +1,6 @@
 # **A PRELIMINARY ANALYSIS: INCREASING ADOPTION RATES AT THE AUSTIN ANIMAL CENTER**
 
-By ==Andrea Messer, Charlotte Schnoebelen, Shamim Munshi, Yana Zykova, Sumaiya Ahmed==
+### By Andrea Messer, Charlotte Schnoebelen, Shamim Munshi, Yana Zykova, Sumaiya Ahmed
 
 # *Project Intro*
 This report outlines the development team’s approach to project delivery, provides insight into our analysis design and implementation strategy, and identifies some high-level findings. The next section summarises background information about animal shelters in the US - including the AAC - then section 3.0 details the project aims and objectives. The report goes on to outline the project specifications and analysis design (section 4.0), and subsequently describes our implementation process and challenges (section 5.0). Next, section 6.0 provides an overview of our data sources before concluding with high-level findings (section 7.0) and recommendations (section 8.0) for next steps. 
@@ -60,7 +60,13 @@ This report outlines the development team’s approach to project delivery, prov
 * Adoption rates are affected by the season / month, animal type and characteritstics of the animals.
 * Dogs are adopted all year round at the same rate but cats have a decrease in adoptions during the spring.
 * Stray or owner surrendered animals are more likely to get adopted than animals of other intake types.
-* Neutered or spayed animals have higher adoption rates to animals who are intact. 
+* Neutered or spayed animals have higher adoption rates to animals who are intact.
+
+# *References*
+
+Austin Animal Centre intakes https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm 
+
+Austin Animal Centre Outcomes https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238
 
 
 
