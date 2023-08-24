@@ -63,7 +63,7 @@ With animal shelters in the US collectively taking in millions of companion anim
 * Stray or owner surrendered animals are more likely to get adopted than animals of other intake types.
 * Neutered or spayed animals have higher adoption rates to animals who are intact.
 
-# *References*
+# *Sources*
 
 Austin Animal Centre intakes https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm 
 
