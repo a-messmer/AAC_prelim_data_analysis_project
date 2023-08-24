@@ -52,9 +52,9 @@ This report outlines the development team’s approach to project delivery, prov
 
 
 # *Code structure*
-##### *Sections 1 - 9 - Data collecting and Data cleaning*
-##### *Section 10 - Descriptive analysis*
-##### *Section 11 - Time series analysis*
+#### *Sections 1 - 9 - Data collecting and Data cleaning*
+#### *Section 10 - Descriptive analysis*
+#### *Section 11 - Time series analysis*
 
 # *Results*
 * Adoption rates are affected by the season / month, animal type and characteritstics of the animals.
