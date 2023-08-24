@@ -46,8 +46,9 @@ This report outlines the development team’s approach to project delivery, prov
 * Colour - Colour of the animal
 * Total touchpoints - The total amount of times the same animal has been returned to the shelter - this was used for dataframe merging
 * Touchpoint count - The number of the return to the shelter - 1 = first time at shelter, 2 = second time in shelter etc.
-  
-![](Dataframe.png =2000x)
+
+<img src="Dataframe.png" width="2000" height="700" />
+
 
 # Code structure
 ##### *Sections 1 - 9 - Data collecting and data cleaning*
