@@ -1,6 +1,4 @@
-# Data Project
-A PRELIMINARY ANALYSIS:
-INCREASING ADOPTION RATES AT THE AUSTIN ANIMAL CENTER
+# A PRELIMINARY ANALYSIS: INCREASING ADOPTION RATES AT THE AUSTIN ANIMAL CENTER
 
 By Andrea Messer, Charlotte Schnoebelen, Shamim Munshi, Yana Zykova, Sumaiya Ahmed
 
@@ -48,6 +46,7 @@ This report outlines the development team’s approach to project delivery, prov
 * Colour - Colour of the animal
 * Total touchpoints - The total amount of times the same animal has been returned to the shelter - this was used for dataframe merging
 * Touchpoint count - The number of the return to the shelter - 1 = first time at shelter, 2 = second time in shelter etc.
+![image](https://github.com/sumaiya-1/Data-Project/assets/95285513/a10a9002-f6ea-496b-91f2-a55f91c8bf30)
 
 # Code structure
 ##### *Sections 1 - 9 - Data collecting and data cleaning*
