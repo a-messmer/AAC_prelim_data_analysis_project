@@ -50,14 +50,15 @@ This report outlines the development team’s approach to project delivery, prov
 * Touchpoint count - The number of the return to the shelter - 1 = first time at shelter, 2 = second time in shelter etc.
 
 # Code structure
-Sections 1 - 9 - Data collecting and data cleaning
-Section 10 - Descriptive analysis
-Section 11 - Time series analysis
+##### *Sections 1 - 9 - Data collecting and data cleaning*
+##### *Section 10 - Descriptive analysis*
+##### *Section 11 - Time series analysis*
 
 # Results
-Adoption rates are affected by the season / month, animal type and characteritstics of the animals. Dogs are adopted all year round at the same rate but cats have a decrease in adoptions during the spring. 
-Stray or owner surrendered animals are more likely to get adopted than animals of other intake types. 
-Neutered or spayed animals have higher adoption rates to animals who are intact. 
+* Adoption rates are affected by the season / month, animal type and characteritstics of the animals.
+* Dogs are adopted all year round at the same rate but cats have a decrease in adoptions during the spring.
+* Stray or owner surrendered animals are more likely to get adopted than animals of other intake types.
+* Neutered or spayed animals have higher adoption rates to animals who are intact. 
 
 
 
